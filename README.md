@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <br>
 
+#### 📌 Currently learning
+- Spring Batch
+- IoT Platform oM2M
+
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahc700)](https://solved.ac/ahc700/)
