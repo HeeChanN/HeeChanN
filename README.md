@@ -2,6 +2,11 @@
 
 <br>
 
+#### 📌 Blog
+
+- 개발 공부 블로그 [](https://techmate.site)
+
+
 #### 📌 Activity
 
 - 2022 제주 스마트 관광 빅데이터 해커톤 수료
