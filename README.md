@@ -21,6 +21,7 @@
 #### 📌 Project
 - [2023.05 ~ 2023.06 : 세종대학교 3학년 1학기 데이터베이스 수업 프로젝트 " 대학교 공지사항 통합 서비스"](https://github.com/Ahnheechan/Notice-Integrated-Service)
 - [2023.06 ~ 2023.08 : 멋쟁이 사자처럼 11기 중앙 해커톤 프로젝트 "오픈 AI Q&A 서비스"](https://github.com/Ahnheechan/LikeLion-hackathon)
+- [2023.09 ~ 2023.11 : 실시간 장례 비용 상조 서비스](https://github.com/Halo-Hamso/hamso-backend)
 
 <br>
 
