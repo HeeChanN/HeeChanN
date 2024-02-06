@@ -45,8 +45,8 @@
 <br>
 
 #### 📌 Currently learning
-- Spring Batch
-- IoT Platform oM2M
+- kafka
+- junit
 
 <br>
 <br>
