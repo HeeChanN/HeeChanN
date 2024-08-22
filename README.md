@@ -4,7 +4,7 @@
 
 #### 📌 Blog
 
-- 개발 공부 블로그 : https://techmate.site](https://heechann.github.io/
+- 개발 공부 블로그 : https://heechann.github.io
 
 
 #### 📌 Activity
