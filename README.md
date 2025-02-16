@@ -7,15 +7,6 @@
 - 개발 공부 블로그 : https://heechann.github.io
 
 
-#### 📌 Activity
-
-- 세종대학교 멋쟁이 사자처럼 11기 운영진
-- 42 서울 카뎃 10기
-- 소프트웨어 마에스트로 15기 연수생
-
-  
-<br>
-
 #### 📌 Stack
 <!--자바-->
 - <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
