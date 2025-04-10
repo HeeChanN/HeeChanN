@@ -17,10 +17,13 @@
 
 <!--DB-->
 - <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black" />
-
 - ![Amazon Badge](https://img.shields.io/badge/Amazon-F90?logo=amazon&logoColor=fff&style=flat-square)
 
+  
 
+#### 📌 자격증
+- SQLD (2025.04.04)
+- TOCIT 수준 4 (2024.10.12)
 
 <br>
 
