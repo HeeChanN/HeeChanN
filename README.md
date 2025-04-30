@@ -4,7 +4,8 @@
 
 #### 📌 Blog
 
-- 개발 공부 블로그 : https://heechann.github.io
+- 이전 블로그 : https://heechann.github.io
+- 현재 블로그 : https://hechan2.tistory.com
 
 
 #### 📌 Stack
