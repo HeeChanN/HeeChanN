@@ -3,10 +3,8 @@
 <br>
 
 #### 📌 Blog
-
-- 블로그<br>
-  https://heechann.github.io <br>
-  https://hechan2.tistory.com
+- https://heechann.github.io
+- https://hechan2.tistory.com
 
 
 #### 📌 Stack
