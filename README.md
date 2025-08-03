@@ -2,6 +2,10 @@
 
 <br>
 
+#### 📌 Resume
+- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://patch-cornflower-b10.notion.site/1b176dc29e4780e7a157e73d756ba0ea)
+
+
 #### 📌 Blog
 - https://heechann.github.io
 - https://hechan2.tistory.com
