@@ -31,8 +31,8 @@
 
 ## Open Source Contributions
 
-- ![micrometer](https://github.com/micrometer-metrics/micrometer)
-    - ensure tags are preserved for fetchExists(Table, Condition) ![6643](https://github.com/micrometer-metrics/micrometer/pull/6643)
+- [micrometer](https://github.com/micrometer-metrics/micrometer)
+    - ensure tags are preserved for fetchExists(Table, Condition) [#6643](https://github.com/micrometer-metrics/micrometer/pull/6643)
 
 
 <!--
