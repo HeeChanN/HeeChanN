@@ -1,7 +1,5 @@
 ## 👋Hello world
 
-<br>
-
 #### 📌 Resume
 - [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://patch-cornflower-b10.notion.site/1b176dc29e4780e7a157e73d756ba0ea)
 
@@ -31,10 +29,10 @@
 
 <br>
 
-<br>
-<br>
+## Open Source Contributions
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahc700)](https://solved.ac/ahc700/)
+- ![micrometer](https://github.com/micrometer-metrics/micrometer)
+    - ensure tags are preserved for fetchExists(Table, Condition) ![6643](https://github.com/micrometer-metrics/micrometer/pull/6643)
 
 
 <!--
