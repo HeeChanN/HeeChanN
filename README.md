@@ -1,7 +1,7 @@
 ## HeeChan Ahn / 안희찬
 <!-- 멘트 작성하기 -->
 
-#### Link : [Resume](https://patch-cornflower-b10.notion.site/1b176dc29e4780e7a157e73d756ba0ea) | [blog](https://heechann.github.io)
+#### Link : [Resume](https://patch-cornflower-b10.notion.site/1b176dc29e4780e7a157e73d756ba0ea) | [blog](https://hechan2.tistory.com/)
 
 <br>
 
