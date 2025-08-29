@@ -15,7 +15,7 @@
 
 ## Certification
 - SQLD 
-- TOCIT Level 4 
+- TOPCIT Level 4 
 
 <br>
 
