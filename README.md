@@ -14,6 +14,7 @@
 <br>
 
 ## Certification
+- 정보처리기사
 - SQLD 
 - TOPCIT Level 4 
 
