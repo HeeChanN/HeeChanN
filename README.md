@@ -8,9 +8,9 @@
 ## Education
 - **SW Maestro, 15th**
     - backend / app (April 2024 ~ Nov 2024)
-<!--- **Sejong University**
+- **Sejong University**
     - Computer Engineering (Mar 2019 ~ Aug 2025)
--->
+
 <br>
 
 ## Certification
