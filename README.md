@@ -29,3 +29,13 @@
 - [spring-ai](https://github.com/spring-projects/spring-ai)
     - [PR] : add more explanation observability documentation about metrics [#4223](https://github.com/spring-projects/spring-ai/pull/4223)
 
+<br>
+
+---
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HeeChanN&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/HeeChanN"
+  width="600"
+  height="300"
+/>
+</a>
