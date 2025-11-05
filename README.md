@@ -28,6 +28,8 @@
     - [PR] : add compatibility note for jOOQ overload delegation [#6681](https://github.com/micrometer-metrics/micrometer/pull/6681)
 - [spring-ai](https://github.com/spring-projects/spring-ai)
     - [PR] : add more explanation observability documentation about metrics [#4223](https://github.com/spring-projects/spring-ai/pull/4223)
+- [spring-framework](https://github.com/spring-projects/spring-framework)
+    - [Issue] : Identified an inconsistency in documentation regarding @Valid container parameter validation. [#35186](https://github.com/spring-projects/spring-framework/pull/35186)
 
 <br>
 
