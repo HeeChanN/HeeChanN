@@ -32,12 +32,3 @@
     - [Issue] : Identified an inconsistency in documentation regarding @Valid container parameter validation. [#35186](https://github.com/spring-projects/spring-framework/pull/35186)
 
 <br>
-
----
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HeeChanN&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/HeeChanN"
-  width="600"
-  height="300"
-/>
-</a>
